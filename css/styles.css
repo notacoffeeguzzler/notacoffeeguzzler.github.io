@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(#1C0A00, #361500);
+}
+
+hr {
+  background-color: #603601;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #603601;
+  border-width:5px;
+  border-spacing: inherit;
+  width: 40px;
+}
+
+h1 {
+  color: #CC9544;
+}
+
+h3 {
+  color: #CC9544;
+}
+
+table {
+  color: #3E8E7E;
+}
+
+ul {
+  color: #3E8E7E;
+}
+
